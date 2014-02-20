@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [math-utils/area-polygon](http://github.com/math-utils/area-polygon). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/math-utils-area-polygon`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # Area Polygon [![Build Status](https://travis-ci.org/math-utils/area-polygon.png)](https://travis-ci.org/math-utils/area-polygon)
 
 Calculate the area of a simple 2D polygon given its vertices.
